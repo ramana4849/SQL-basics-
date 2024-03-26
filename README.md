@@ -1,4 +1,3 @@
-# SQL-basics-
 # SQL(structured query language)
 
 ## INTRODUCTION
